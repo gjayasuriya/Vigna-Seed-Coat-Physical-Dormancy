@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+
+message: "If you use the data or R code in this repository, please cite this repository."
+
+title: "Vigna seed coat and physical dormancy dataset and R code"
+
+type: dataset
+
+authors:
+  - family-names: "Jayasuriya"
+    given-names: "K. M. G. Gehan"
+    orcid: "https://orcid.org/0000-0001-6518-7951"
+
+  - family-names: "Vandelook"
+    given-names: "Filip"
+    orcid: "https://orcid.org/0000-0003-4591-5557"
+
+repository-code: "https://github.com/gjayasuriya/Vigna-Seed-Coat-Physical-Dormancy"
+
+url: "https://github.com/gjayasuriya/Vigna-Seed-Coat-Physical-Dormancy"
+
+abstract: "Data and reproducible R scripts supporting research on seed coat anatomy, physical dormancy, imbibition, and morphometric variation in cultivated and wild Vigna taxa."
+
+version: 1.0.1
